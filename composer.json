@@ -1,15 +1,15 @@
 {
-    "name": "pedro/comex",
+    "name": "nelson/comex",
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Pedro\\Comex\\": "src/"
+            "Nelson\\Comex\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Kamem0110",
-            "email": "pedro_giusti@outlook.com"
+            "name": "nelson",
+            "email": "nederato@gmail.com"
         }
     ],
     "require": {}
