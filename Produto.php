@@ -8,7 +8,7 @@ em produtos no estoque (produtos * quantidade).
  */
 namespace Nelson\Comex;
 
-class Product
+class Produto
 {
     private int $productID;
     private String $name;

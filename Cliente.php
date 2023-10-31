@@ -8,7 +8,7 @@ setters. Após criar a classe e atribuir seus valores, exiba os valores atribuí
  */
 namespace Nelson\Comex;
 
-class Client
+class Cliente
 {
     private string $cpf;
     private String $name;

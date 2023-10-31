@@ -8,7 +8,7 @@ namespace Nelson\Comex;
 class Order
 {
     private int $orderID;
-    private Client $client;
-    private array $products;
+    private Cliente $cliente;
+    private array $produtos;
 
 }
