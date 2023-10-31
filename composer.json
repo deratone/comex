@@ -1,0 +1,16 @@
+{
+    "name": "nelson/comex",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Nelson\\Comex\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nelson",
+            "email": "nederato@gmail.com"
+        }
+    ],
+    "require": {}
+}
